@@ -1,0 +1,282 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Enemy",
+      "year": 2013,
+      "actors": [
+        {
+          "name": "Jake Gyllenhaal",
+          "rol": "Main",
+          "photo": "https://i.pinimg.com/originals/2d/b4/e2/2db4e267d7876fd559336f0ad47a19ab.jpg"
+        },{
+          "name": "Mélanie Laurent",
+          "rol": "Secondary",
+          "photo": "https://img5.bdbphotos.com/images/orig/8/1/81t82qi76vbht12b.jpg?skj2io4l" 
+        }
+      ],
+      "director": {
+        "name": "Denis Villeneuve",
+        "photo": "https://images.mubicdn.net/images/cast_member/21817/cache-89757-1388535799/image-w856.jpg?size=800x"
+      },
+      "poster": "https://i0.wp.com/brutstatt.de/Wordpress/wp-content/uploads/2014/05/Enemy_Poster.jpg",
+      "alternativePoster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_.jpg",
+      "sinopsis": "Adam Bell is a Toronto area History college professor. He is a rather somber man, largely because he is stuck in a routine, which includes a relationship with his live-in girlfriend, Mary. While watching a rental movie, he spots an actor in a bit part that looks like him. He becomes obsessed with finding out about this double of his. He learns that the actor's stage name is Daniel Saint Claire, whose legal name is Anthony Claire. Claire is a Toronto based actor with only a few on-screen credits, and is married to a woman named Helen who is currently several months pregnant. Adam then becomes obsessed with meeting Claire, who he learns upon first sighting that they look exactly the same, from the facial hair to a scar each has, but Claire who outwardly is more put together than Adam. Their lives become intertwined as Claire himself ends up becoming obsessed with Adam, but in a slightly different way."
+    },
+    {
+      "id": 2,
+      "name": "Ex Machina",
+      "year": 2015,
+      "actors": [
+        {
+          "name": "Alicia Vikander",
+          "rol": "Main",
+          "photo": "https://m.media-amazon.com/images/M/MV5BNmFjNmRkMmQtOTg4Mi00MDcwLWE3MjUtZTg2OTQwZmI2YmQ0XkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_.jpg"
+        },{
+          "name": "Oscar Isaac",
+          "rol": "Main",
+          "photo": "https://i.pinimg.com/originals/77/64/df/7764dfbea99922b12b27d7b86672fa2a.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Alex Garland",
+        "photo": "https://dl9fvu4r30qs1.cloudfront.net/1d/7a/8c3588554ee5b28e669fe61923ac/alex-garland.jpg"
+      },
+      "poster": "https://cinemania-s3b.s3.amazonaws.com/wp-content/uploads/2014/12/exmachina.jpg",
+      "alternativePoster": "https://www.mondographics.net/photos_gm/ex-machina-variant-18-Laurent-Durieux.jpg",
+      "sinopsis": "Caleb, a 26 year old programmer at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl."
+    },
+    {
+      "id": 3,
+      "name": "The Witch",
+      "year": 2015,
+      "actors": [
+        {
+          "name": "Anya Taylor-Joy",
+          "rol": "Main",
+          "photo": "https://media.vogue.es/photos/5cc764d4a6e117447754e002/3:4/w_321,h_428,c_limit/vogue_living_8542.jpg"
+        },{
+          "name": "Ralph Ineson",
+          "rol": "Secondary",
+          "photo": "https://alchetron.com/cdn/ralph-ineson-82d195e5-a537-4d84-a7cf-824a505b89a-resize-750.jpeg" 
+        }
+      ],
+      "director": {
+        "name": "Robert Eggers",
+        "photo": "http://www.sitgesfilmfestival.com/sitgesadmin/uploads/director_foto/103293.png"
+      },
+      "poster": "https://www.dhresource.com/0x0/f2/albu/g10/M00/5F/F0/rBVaWVw79wiAXSQOAALc4O8WF3A962.jpg",
+      "alternativePoster": "https://i.pinimg.com/originals/f5/f6/8c/f5f68ce24ef384ea147ac40609de8810.jpg",
+      "sinopsis": "New England, 1630: William and Katherine try to lead a devout Christian life, homesteading on the edge of an impassible wilderness, with five children. When their newborn son mysteriously vanishes and their crops fail, the family begins to turn on one another. 'The Witch' is a chilling portrait of a family unraveling within their own sins, leaving them prey for an inconceivable evil."
+    },
+    {
+      "id": 4,
+      "name": "The Lobster",
+      "year": 2015,
+      "actors": [
+        {
+          "name": "Colin Farrell",
+          "rol": "Main",
+          "photo": "https://i.pinimg.com/originals/89/c0/c8/89c0c8abff3310e88b5908e102b865f4.jpg"
+        },{
+          "name": "Rachel Weisz",
+          "rol": "Secondary",
+          "photo": "https://m.media-amazon.com/images/I/414pspmVWDL._AC_.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Yorgos Lanthimos",
+        "photo": "https://cineyamigosparacompartir.files.wordpress.com/2019/12/yorgos-lanthimos.jpg"
+      },
+      "poster": "https://graffica.info/wp-content/uploads/2016/01/colinfarrellinthelobster569_0.jpg",
+      "alternativePoster": "https://alternativemovieposters.com/wp-content/uploads/2018/01/boris_lobster.jpg",
+      "sinopsis": "A love story set in a dystopian near future where single people are arrested and transferred to a creepy hotel. There they are obliged to find a matching mate in 45 days. If they fail, they are transformed into an animal and released into the woods."
+    },
+    {
+      "id": 5,
+      "name": "Moonlight",
+      "year": 2016,
+      "actors": [
+        {
+          "name": "Trevante Rhodes",
+          "rol": "Main",
+          "photo": "https://pbs.twimg.com/media/DvhoAn4WkAIOzZ1.jpg"
+        },{
+          "name": "Mahershala Ali",
+          "rol": "Secondary",
+          "photo": "https://es.web.img2.acsta.net/pictures/16/12/20/10/10/528827.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Barry Jenkins",
+        "photo": "https://m.media-amazon.com/images/M/MV5BOTkzYTUyZjctYzA3My00ODY5LTk3ZWItM2UzN2I3MTNhMzFkXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_.jpg"
+      },
+      "poster": "https://images.squarespace-cdn.com/content/v1/5a7dcf69d7bdce185884a6b5/1561994505994-4320J5PM0QJBZUGMKVMJ/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE%40._V1_.jpg",
+      "alternativePoster": "https://pbs.twimg.com/media/EdTCqZDX0AE9xU8.jpg",
+      "sinopsis": "Three time periods - young adolescence, mid-teen and young adult - in the life of black-American Chiron is presented. When a child, Chiron lives with his single, crack addict mother Paula in a crime ridden neighborhood in Miami. Chiron is a shy, withdrawn child largely due to his small size and being neglected by his mother, who is more concerned about getting her fixes and satisfying her carnal needs than taking care of him. Because of these issues, Chiron is bullied, the slurs hurled at him which he doesn't understand beyond knowing that they are meant to be hurtful. Besides his same aged Cuban-American friend Kevin, Chiron is given what little guidance he has in life from a neighborhood drug dealer named Juan, who can see that he is neglected, and Juan's caring girlfriend Teresa, whose home acts as a sanctuary away from the bullies and away from Paula's abuse. With this childhood as a foundation, Chiron may have a predetermined path in life, one that will only be magnified in terms of its problems when he reaches his difficult teen years when peer pressure affects what he and many of his peers do, unless he follows Juan's advice of truly making his own decisions for himself."
+    },
+    {
+      "id": 6,
+      "name": "A Ghost Story",
+      "year": 2017,
+      "actors": [
+        {
+          "name": "Casey Affleck",
+          "rol": "Main",
+          "photo": "https://offscreen.com/images/articles/_resized/Ghost_Story_Big.png"
+        },{
+          "name": "Rooney Mara",
+          "rol": "Main",
+          "photo": "https://pbs.twimg.com/media/DHhtz0XXoAAxXGB.jpg" 
+        }
+      ],
+      "director": {
+        "name": "David Lowery",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTY1NDU4MjMwOF5BMl5BanBnXkFtZTgwNzYxMDg2OTE@._V1_.jpg"
+      },
+      "poster": "https://www.themoviedb.org/t/p/original/3rxCyUEWdFIyphDgI2OBxCewNHg.jpg",
+      "alternativePoster": "https://cdnb.artstation.com/p/assets/images/images/034/450/251/large/ali-hdz-a-ghost-story-5.jpg?1612320095",
+      "sinopsis": "Resonating with vibrant memories and silent echoes of a shared life, the old house is somehow connected to C, a sensitive composer who is hesitant of leaving it, while his loving wife M, on the other hand, is keen on moving out, having an indecipherable but grim premonition of danger. Sadly, disaster soon strikes, and C's untethered spectre which detaches from the lifeless body, rises from the mortician's table, and in a swift decision, decides to linger in this dimension to faithfully follow the grieving M back to the old house. As silent as a shadow and as invisible as the air, C's unappeasable phantom observes M's denial and depression gradually turn to acceptance and even hope, as time unravels, moving forward through the decades. In this earth, man struggles to leave his legacy behind. Is this the way to immortality?"
+    },
+    {
+      "id": 7,
+      "name": "The Killing of a Sacred Deer",
+      "year": 2017,
+      "actors": [
+        {
+          "name": "Colin Farrell",
+          "rol": "Main",
+          "photo": "https://pbs.twimg.com/media/DLObAOsW0AE1YgQ.jpg"
+        },{
+          "name": "Nicole Kidman",
+          "rol": "Main",
+          "photo": "https://www.out.com/sites/default/files/2017/08/16/screen_shot_2017-08-16_at_3.15.18_pm.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Yorgos Lanthimos",
+        "photo": "https://cineyamigosparacompartir.files.wordpress.com/2019/12/yorgos-lanthimos.jpg"
+      },
+      "poster": "https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2017/10/KSD_1Sheet_Alt_Curzon_HR.jpg",
+      "alternativePoster": "https://i.pinimg.com/originals/af/85/8c/af858c5a7e0100ae445efaa94d85ceec.jpg",
+      "sinopsis": "After the untimely death of 16-year-old Martin's father on the operating table, little by little, a deep and empathetic bond begins to form between him and the respected cardiothoracic surgeon, Dr Steven Murphy. At first, expensive gifts and then an invitation for dinner will soon earn the orphaned teenager the approval of Dr Steven's perfect family, even though right from the start, a vague, yet unnerving feeling overshadows Martin's honest intent. And then, unexpectedly, the idyllic family is smote by a fierce and pitiless punishment, while at the same time, everything will start falling apart as the innocents have to suffer. In the end, as the sins of one burden the entire family, only an unimaginable and unendurable decision that demands a pure sacrifice can purge the soul. But to find catharsis, one must first admit the sin."
+    },
+    {
+      "id": 8,
+      "name": "Lady Bird",
+      "year": 2017,
+      "actors": [
+        {
+          "name": "Saoirse Ronan",
+          "rol": "Main",
+          "photo": "https://media.vogue.mx/photos/5c070e55f5bb24b7a4fe7e84/2:3/w_2560%2Cc_limit/acne_saoirse_ronan_pelicula_lady_bird_de_greta_gerwig_6695.jpg"
+        },{
+          "name": "Laurie Metcalf",
+          "rol": "Secondary",
+          "photo": "https://images.squarespace-cdn.com/content/v1/5b994796b98a78772c0b18c9/1561509696881-1JFXFC9WGKQFN1YESK6F/lady-bird-movie-7.png" 
+        }
+      ],
+      "director": {
+        "name": "Greta Gerwig",
+        "photo": "https://es.web.img3.acsta.net/pictures/19/10/18/03/17/2925410.jpg"
+      },
+      "poster": "https://m.media-amazon.com/images/I/81AuyLA3SLL._AC_SL1500_.jpg",
+      "alternativePoster": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/79177370_1479216152232648_3771775966506909696_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=MWTzOFiIoc8AX8BMIe7&_nc_ht=scontent-mad1-1.xx&oh=963c154fb702c0b9dff13eca8ac7f88f&oe=619B41E1",
+      "sinopsis": "Christine Lady Bird McPherson (Saoirse Ronan) is a high school senior from the wrong side of the tracks. She longs for adventure, sophistication, and opportunity, but finds none of that in her Sacramento Catholic high school. This movie follows the title character's senior year in high school, including her first romance, her participation in the school play, and most importantly, her applying for college."
+    },
+    {
+      "id": 9,
+      "name": "The Disaster Artist",
+      "year": 2017,
+      "actors": [
+        {
+          "name": "James Franco",
+          "rol": "Main",
+          "photo": "https://www.lahiguera.net/cinemania/actores/james_franco/fotos/27033/james_franco.jpg"
+        },{
+          "name": "Dave Franco",
+          "rol": "Secondary",
+          "photo": "https://tomandlorenzo.com/wp-content/uploads/2015/12/James-Franco-Dave-Franco-Movie-Set-Disaster-Artist-Tom-Lorenzo-Site-8.jpg" 
+        }
+      ],
+      "director": {
+        "name": "James Franco",
+        "photo": "https://media.revistagq.com/photos/5ca5fa7533e751499f1538a3/2:3/w_768,h_1152,c_limit/james_franco_estilo_icono_masculino_the_deuce_the_disaster_artist_4397.jpg"
+      },
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGNkMzliMGMtMDI5Ni00OTZkLTgyMTYtNzk5ZTY1NjVhYjVmXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg",
+      "alternativePoster": "https://i.pinimg.com/originals/2a/b4/02/2ab402d8f2ac76c108282e41f605bcd6.jpg",
+      "sinopsis": "Aspiring actor Greg Sestero befriends the eccentric Tommy Wiseau. The two travel to L.A, and when Hollywood rejects them, Tommy decides to write, direct, produce and star in their own movie. That movie is The Room, which has attained cult status as the Citizen Kane of bad movies."
+    },
+    {
+      "id": 10,
+      "name": "First Reformed",
+      "year": 2018,
+      "actors": [
+        {
+          "name": "Ethan Hawke",
+          "rol": "Main",
+          "photo": "https://pics.filmaffinity.com/El_reverendo-357046660-large.jpg"
+        },{
+          "name": "Amanda Seyfried",
+          "rol": "Secondary",
+          "photo": "https://m.media-amazon.com/images/M/MV5BMDNmZDdmYzgtMTc1OS00NDBhLWI1MjktOWE4ZTZkYTEyOTUzXkEyXkFqcGdeQXVyNDMzOTgzMDc@._V1_.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Paul Schrader",
+        "photo": "https://images.moviefit.me/p/o/4169-paul-schrader.jpg"
+      },
+      "poster": "https://images.mymovies.net/images/film/cin/350x522/fid18667.jpg",
+      "alternativePoster": "https://alternativemovieposters.com/wp-content/uploads/2020/03/lahiri_firstreformed.jpg",
+      "sinopsis": "Forty-six year old Reverend Ernst Toller is the pastor at the historic First Reformed Church in upstate New York. It is seen as the tourist church or the souvenir shop (its historical significance partly it being a stop on the underground railroad before the slaves crossed into Canada) by Abundant Life, which owns the church and which operates a modern self-named five thousand seat church overseen by Reverend Joel Jeffers. First Reformed is celebrating its two hundred fiftieth anniversary this year, for which a major event is planned, modest in size only at First Reformed itself although the dignitaries like the governor and mayor will be at attendance there, while the event will be simulcast at Abundant Life. Most of the speech-making will be done by local industrialist Ed Balq, a major benefactor of Abundant Life and who is the major donor for the necessary upgrades at First Reformed to be able to hold the event there, and for the event itself, while Toller's participation will be minimal beyond the introductory sermon. First Reformed is generally a sparsely attended church meaning that Toller doesn't have to do much direct ministering, although he does have the stock answers when asked how God factors into this or that situation in one's life. Toller himself has long been divorced, his marriage which could not survive the death of their son, Joseph, in war. Because of that history, Toller believes he is incapable of human love, despite a brief relationship with Esther, the choir mistress at Abundant Life, she who is arguably still in love with him. Toller is neglecting the warning signs about his poor health, the symptoms pointing to a probable diagnosis of stomach cancer, which is only exacerbated by his largely liquid (i.e. alcohol) diet. Toller is already examining his life and work in writing a daily journal for a year, that journal which he intends no one ever to read, but these issues in Toller's life become more pointed when a new pregnant congregant, Mary, asks him to speak to her husband Michael, who Toller will learn is an environmentalist concerned about bringing another human life into what he already sees as a world doomed because of man's role in climate change."
+    },
+    {
+      "id": 11,
+      "name": "Hereditary",
+      "year": 2018,
+      "actors": [
+        {
+          "name": "Toni Collette",
+          "rol": "Main",
+          "photo": "https://www.lahiguera.net/cinemania/actores/toni_collette/fotos/27548/toni_collette.jpg"
+        },{
+          "name": "Alex Wolff",
+          "rol": "Secondary",
+          "photo": "https://www.tonica.la/__export/1627421031798/sites/debate/img/2021/07/27/alex-wolff-habla-del-dano-que-sintio-al-filmar-hereditary.jpg_423682103.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Ari Aster",
+        "photo": "https://images.moviefit.me/p/o/74809-ari-aster.jpg"
+      },
+      "poster": "https://cutewallpaper.org/22/imdb-wallpapers/55032656.jpg",
+      "alternativePoster": "https://64.media.tumblr.com/0bea03bf5a87d49e9c81ffd6fcb9894a/tumblr_p9yzvaRBIQ1s80h8lo1_1280.png",
+      "sinopsis": "When her mentally ill mother passes away, Annie (Toni Collette), her husband (Gabriel Byrne), son (Alex Wolff), and daughter (Milly Shapiro) all mourn her loss. The family turn to different means to handle their grief, including Annie and her daughter both flirting with the supernatural. They each begin to have disturbing, otherworldly experiences linked to the sinister secrets and emotional trauma that have been passed through the generations of their family."
+    },
+    {
+      "id": 12,
+      "name": "Midsommar",
+      "year": 2019,
+      "actors": [
+        {
+          "name": "Florence Pugh",
+          "rol": "Main",
+          "photo": "https://revistalavie.com/wp-content/uploads/elementor/thumbs/FLorence-en-Midsommar-p9gog0wt2fqtp1xtjbokt7w05x5jrxgjk66e8ju9s0.png"
+        },{
+          "name": "Jack Reynor",
+          "rol": "Secondary",
+          "photo": "https://screenmusings.org/movie/blu-ray/Midsommar/images/Midsommar-241.jpg" 
+        }
+      ],
+      "director": {
+        "name": "Ari Aster",
+        "photo": "https://images.moviefit.me/p/o/74809-ari-aster.jpg"
+      },
+      "poster": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/midsommar-poster-1557408954.jpg",
+      "alternativePoster": "https://i.pinimg.com/736x/2b/12/44/2b12442baf15d37fa72adbdc26f26b81.jpg",
+      "sinopsis": "Dani (Florence Pugh) and Christian (Jack Reynor) are a young American couple with a relationship on the brink of falling apart. But after a family tragedy keeps them together, Christian invites a grieving Dani to join him and his friends on a trip to a once-in-a-lifetime midsummer festival in a remote Swedish village. What begins as a carefree summer holiday in the North European land of eternal sunlight takes a sinister turn when the insular villagers invite their guests to partake in festivities that render the pastoral paradise increasingly unnerving and viscerally disturbing."
+    }
+
+  ]
+  
+}
